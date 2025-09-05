@@ -1,3 +1,4 @@
+
 <p align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:F59E0B,100:FB923C&height=120&section=header"/>
 </p>
@@ -33,7 +34,7 @@
  <strong><em>Creating technology that empowers humanity while protecting what matters most.</em></strong>
 </p>
 
-<p align="center">
+<p align="center"><br>
  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:F59E0B,100:FB923C&height=80&section=header&text=Digital%20Dreams&fontSize=30&fontColor=FFFFFF&fontAlignY=35&desc=&descAlignY=50&animation=twinkling"/>
 </p>
 
@@ -53,7 +54,7 @@
  <strong>Open Protocols</strong> - Designing transparent, interoperable systems that anyone can verify, use, and build upon
 </p>
 
-<p align="center">
+<p align="center"><br>
  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:F59E0B,100:FB923C&height=80&section=header&text=Tech%20Stack&fontSize=30&fontColor=FFFFFF&fontAlignY=35&desc=&descAlignY=50&animation=twinkling"/>
 </p>
 
@@ -90,7 +91,9 @@
 </p>
 
 <br>
+<p align="center">
   ━━━━━━━━━━━ <strong>📚 Currently Learning 📚</strong> ━━━━━━━━━━━
+  <p>
 
 <!-- Nouveaux Langages -->
 <p align="center"><br>
@@ -113,7 +116,7 @@
 
 <p align="center">
  Ready to collaborate on projects that turn digital dreams into reality? Let's shape the decentralized future we've always envisioned.
-</p>
+</p><br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/théo-b-b00068364">
@@ -133,7 +136,7 @@
   </a>
 </p>
 
-<p align="center">
+<p align="center"><br>
  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:F59E0B,100:FB923C&height=120&section=header"/>
 </p>
 

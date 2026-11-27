@@ -26,11 +26,11 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://signal.me/#eu/BX9FJOHMy2Aw7xZvVTZkpWu-ikeTeVhNhhwcWAE8iflRhxr2L8VHgIbLTHXkMmHJ">
-    <img src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white" alt="Signal">
+    <img src="https://img.shields.io/badge/Signal-0a0908?style=for-the-badge&logo=signal&logoColor=3A76F0" alt="Signal">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://smp10.simplex.im/a#q2Fu-QZYm8w2UCQIdNOWEbkl1qUCXih_FvgozZHjbUw">
-    <img src="https://img.shields.io/badge/SimpleX-5B8AF4?style=for-the-badge&logo=simplex&logoColor=white" alt="SimpleX">
+    <img src="https://img.shields.io/badge/SimpleX-0a0908?style=for-the-badge&logo=simplex&logoColor=5B8AF4" alt="SimpleX">
   </a>
 </p>
 
